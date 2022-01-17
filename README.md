@@ -2,7 +2,7 @@
 - 🔭 I’m currently working as a fullstack Cloud Software Engineer
 - 🌱 I’m currently learning cloud, frontend and backend technologies such as AWS, vue.js, java spring, ...
 - 👯 I’m looking to collaborate with passionate developers
-- 🤔 I’m looking for help with finding passion 😁
+- 🤔 I’m looking for help with game development and game design
 - 📫 How to reach me: https://www.linkedin.com/in/orkun-alp-u/
 
 <!--
