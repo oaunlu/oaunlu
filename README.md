@@ -1,21 +1,15 @@
-### Hello World 👋
-- 🔭 I’m currently working as a fullstack Cloud Software Engineer
-- 🌱 I’m currently learning cloud, frontend and backend technologies such as AWS, vue.js, java spring, ...
-- 👯 I’m looking to collaborate with passionate developers
-- 🤔 I’m looking for help with game development and game design
-- 📫 How to reach me: https://www.linkedin.com/in/orkun-alp-u/
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=oaunlu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=oaunlu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oaunlu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--
-**oaunlu/oaunlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Here are some ideas to get you started:
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=oaunlu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
